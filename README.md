@@ -1,2 +1,3 @@
-![Banner](https://i.ibb.co.com/mFyCqxpG/github-banner.jpg)
-
+<p align="center">
+  <img src="https://i.ibb.co/mFyCqxpG/github-banner.jpg" alt="GitHub Banner" style="max-width: 100%; height: auto;" />
+</p>
