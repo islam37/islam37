@@ -41,7 +41,7 @@ I'm a passionate frontend developer with expertise in React.js, TailwindCSS, and
 
 ### 🧠 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="Programming Languages" />
 </p>
 
 ---
@@ -50,15 +50,15 @@ I'm a passionate frontend developer with expertise in React.js, TailwindCSS, and
 
 <p align="center">
   <a href="https://www.codechef.com/users/islam37" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" height="40" width="40" alt="CodeChef" style="background:white;padding:5px;border-radius:8px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" height="40" width="40" alt="CodeChef" /> CodeChef
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/islam37" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="40" alt="Codeforces" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="40" alt="Codeforces" /> Codeforces
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/islam37/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="LeetCode" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="LeetCode" /> LeetCode
   </a>
 </p>
 
@@ -122,13 +122,5 @@ I'm a passionate frontend developer with expertise in React.js, TailwindCSS, and
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ![Visitors](https://komarev.com/ghpvc/?username=islam37&color=blueviolet&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-*Last updated: December 2023*
 
 </div>
