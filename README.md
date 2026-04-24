@@ -4,7 +4,9 @@
 
 <div align="center">
   
-![Banner](https://i.ibb.co.com/35Yn2QRw/githubbanner2.jpg)
+![Banner](https://i.ibb.co.com/9kSLGW7d/Chat-GPT-Image-Apr-24-2026-01-18-57-PM.png)
+
+
 
 </div>
 
