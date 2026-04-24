@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Islam Uddin
 
-## Full Stack Developer | MERN Stack Specialist | Competitive Programmer
+## Full Stack Developer | MERN Stack Specialist | 
 
 <div align="center">
   
