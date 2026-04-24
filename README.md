@@ -1,12 +1,10 @@
 # 👋 Hello, I'm Islam Uddin
 
-## Full Stack Developer | MERN Stack Specialist
+## Full Stack Developer | MERN Stack Specialist | Competitive Programmer
 
 <div align="center">
   
 ![Banner](https://i.ibb.co.com/9kSLGW7d/Chat-GPT-Image-Apr-24-2026-01-18-57-PM.png)
-
-
 
 </div>
 
@@ -43,6 +41,7 @@ I'm a Full Stack Developer specializing in React.js, Next.js, and modern web tec
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
