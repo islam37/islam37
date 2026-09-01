@@ -33,12 +33,13 @@ I'm a full-stack developer focused on building responsive, high-performance web 
 
 | Project | Description | Stack |
 |---|---|---|
-| **Vehicle Rental System** | REST API with modular, layered architecture | Node.js · Express · TypeScript · PostgreSQL |
-| **Course Management System** | Full-stack web app for managing courses and enrollment | MERN |
-| **LumenScript** | Custom-built programming language (compiler design project) | — |
-| **Portfolio (v2)** | Personal site with blog, admin panel, and animations | React · Vite · Tailwind · Firebase |
+| **[Vehicle Rental System](https://github.com/islam37/VehicleRentalSystem)** | REST API with modular layered architecture (controller-service-route), JWT auth with role-based access, deployed on Vercel | Node.js · Express · TypeScript · PostgreSQL (NeonDB) |
+| **[Course Management System](https://github.com/islam37/Course-Management-Systems-client)** — [server](https://github.com/islam37/Course-Management-Systems-server) | Full-stack app for managing courses and enrollment with JWT auth + Google OAuth | React · Node.js · Express · MongoDB |
+| **[ForumFlow](https://github.com/islam37/ForumFlow-client)** — [server](https://github.com/islam37/ForumFlow-server) | Full-stack community forum application | React · Node.js · Express · MongoDB |
+| **Portfolio (v2)** | Personal site with blog, admin panel, and Framer Motion animations | React · Vite · Tailwind · Firebase |
+| **[Some-DSA-code](https://github.com/islam37/Some-DSA-code)** | Data structures & algorithms practice | C++ |
 
-*(Pin these on your profile so they show above — see note at the end.)*
+*(These are pinned on my profile — see below.)*
 
 ---
 
