@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Islam Uddin
+# 👋 Hi, I'm Islam Uddin
 
-## Full Stack Developer | MERN Stack Specialist | 
+### Full Stack Developer · MERN & Next.js Specialist
 
 <div align="center">
   
@@ -8,45 +8,69 @@
 
 </div>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-uddin-8a9798284/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://islamuddin-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islamuddin3725@gmail.com)
+
+</div>
+
 ---
 
 ## 📖 About Me
 
-I'm a Full Stack Developer specializing in React.js, Next.js, and modern web technologies. I build responsive, high-performance applications with great user experiences. Currently in my final year of BSc in Computer Science & Engineering at Metropolitan University, Sylhet.
+I'm a full-stack developer focused on building responsive, high-performance web applications with clean architecture and great user experience. I'm in my final year of a B.Sc. in Computer Science & Engineering at Metropolitan University, Sylhet, and actively building production-style projects across the MERN stack and Next.js/TypeScript.
 
-- 🌱 **Currently Learning:** Next.js, Advanced Backend Architecture, AI/ML Fundamentals
-- 💼 **Open For:** Full-time opportunities & freelance collaborations
-- 🎯 **Focus:** Building scalable full-stack applications
-- 📫 **Email:** [islamuddin3725@gmail.com](mailto:islamuddin3725@gmail.com)
-- 🌐 **Portfolio:** [islamuddin-portfolio.netlify.app](https://islamuddin-portfolio.netlify.app/)
+- 🌱 **Currently deepening:** Next.js, backend architecture, and AI/ML fundamentals
+- 💼 **Open to:** full-time roles and freelance/contract web development
+- 🎯 **Focus areas:** scalable full-stack apps, clean REST APIs, and polished frontend UX
+- 📍 **Based in:** Sylhet, Bangladesh
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Featured Projects
 
-### Frontend
+| Project | Description | Stack |
+|---|---|---|
+| **Vehicle Rental System** | REST API with modular, layered architecture | Node.js · Express · TypeScript · PostgreSQL |
+| **Course Management System** | Full-stack web app for managing courses and enrollment | MERN |
+| **LumenScript** | Custom-built programming language (compiler design project) | — |
+| **Portfolio (v2)** | Personal site with blog, admin panel, and animations | React · Vite · Tailwind · Firebase |
+
+*(Pin these on your profile so they show above — see note at the end.)*
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend & Database
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+**Languages**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Platforms
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -57,56 +81,32 @@ I'm a Full Stack Developer specializing in React.js, Next.js, and modern web tec
 
 ## 💻 Competitive Programming
 
-| Platform | Username | Profile |
-|----------|----------|---------|
-| **CodeChef** | islam37 | [Visit Profile](https://www.codechef.com/users/islam37) |
-| **Codeforces** | islam37 | [Visit Profile](https://codeforces.com/profile/islam37) |
-| **LeetCode** | islam37 | [Visit Profile](https://leetcode.com/u/islam37/) |
-
-*🏆 Active competitive programmer with consistent problem-solving practice*
+| Platform | Profile |
+|---|---|
+| CodeChef | [islam37](https://www.codechef.com/users/islam37) |
+| Codeforces | [islam37](https://codeforces.com/profile/islam37) |
+| LeetCode | [islam37](https://leetcode.com/u/islam37/) |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islam37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islam37&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=islam37&theme=tokyonight&hide_border=true)
 
-### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=islam37&theme=react-dark&hide_border=true)
-
-### GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=islam37&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4)
 
 </div>
 
 ---
 
-## 📞 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-uddin-8a9798284/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/islam37)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islamuddin3725@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801568289690)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://islamuddin-portfolio.netlify.app/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Building efficient, scalable, and user-friendly web solutions"*
+*Building efficient, scalable, and user-friendly web solutions.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=islam37&color=blueviolet&style=flat-square)
 
