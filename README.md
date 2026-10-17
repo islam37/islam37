@@ -12,14 +12,14 @@ I'm a final-year B.Sc. Computer Science & Engineering student at **Metropolitan 
 
 ## Selected work
 
-| Project | What it demonstrates | Technologies |
+| Project | Evidence in the repository | Stack |
 | --- | --- | --- |
-| [Vehicle Rental System API](https://github.com/islam37/VehicleRentalSystem) | Backend API for vehicles, bookings, authentication, and role-based access | Node.js, Express, TypeScript, PostgreSQL |
-| [Vehicle Rental Frontend](https://github.com/islam37/vehicle-rental-frontend) | Frontend companion project for the rental API | React, TypeScript, Vite, Tailwind CSS |
-| [CourseFlow / Course Management](https://github.com/islam37/Course-Manages) | Course management and enrollment application | React, Node.js, Express, MongoDB |
-| [ForumFlow](https://github.com/islam37/ForumFlow-server) | Discussion platform backend; [frontend repository](https://github.com/islam37/ForumFlow-client) | Node.js, Express, MongoDB |
+| **[Vehicle Rental System API](https://github.com/islam37/VehicleRentalSystem)** | Modular booking, vehicle and auth services; JWT role checks and PostgreSQL transactions. **Security hardening needed before production use.** | TypeScript, Node.js, Express, PostgreSQL |
+| **[CourseFlow — Course Management](https://github.com/islam37/Course-Manages)** | Full-stack client/server structure with course enrollment, protected pages and admin workflows. | React, Node.js, Express, MongoDB |
+| **[ForumFlow](https://github.com/islam37/ForumFlow-client)** ([API](https://github.com/islam37/ForumFlow-server)) | Community application with post pages, user/admin dashboards and Firebase authentication integration. | React, Express, MongoDB, Firebase |
+| **[Vehicle Rental Frontend](https://github.com/islam37/vehicle-rental-frontend)** | React/TypeScript UI with home, login and signup pages; **still in development**. | React, TypeScript, Vite, Tailwind CSS |
 
-> Projects are at different stages of development. Please refer to each repository for setup details and current status.
+> These are selected examples of work, not claims of production readiness. Demo availability, automated tests and deployments have not been independently verified.
 
 ## Technologies
 
