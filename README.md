@@ -7,7 +7,7 @@ I'm a final-year B.Sc. Computer Science & Engineering student at **Metropolitan 
 **Open to junior frontend, full-stack, and software engineering opportunities.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-uddin-8a9798284/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?logo=vercel&logoColor=white)](https://islamuddin-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?logo=vercel&logoColor=white)](https://www.islamuddin.site/portfolio)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:islamuddin3725@gmail.com)
 
 ## Selected work
