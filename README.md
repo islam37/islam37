@@ -18,8 +18,6 @@ I'm a final-year B.Sc. Computer Science & Engineering student at **Metropolitan 
 | [Vehicle Rental Frontend](https://github.com/islam37/vehicle-rental-frontend) | Frontend companion project for the rental API | React, TypeScript, Vite, Tailwind CSS |
 | [CourseFlow / Course Management](https://github.com/islam37/Course-Manages) | Course management and enrollment application | React, Node.js, Express, MongoDB |
 | [ForumFlow](https://github.com/islam37/ForumFlow-server) | Discussion platform backend; [frontend repository](https://github.com/islam37/ForumFlow-client) | Node.js, Express, MongoDB |
-| [LumenScript](https://github.com/islam37/Building-a-Programming-Language) | Educational programming-language implementation | C, Flex, Bison |
-| [Ruman Portfolio](https://github.com/islam37/ruman-portfolio) | Responsive portfolio website | React, Tailwind CSS, Framer Motion |
 
 > Projects are at different stages of development. Please refer to each repository for setup details and current status.
 
