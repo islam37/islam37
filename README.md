@@ -2,7 +2,7 @@
 
 # Islam Uddin
 
-**Full-Stack Web Developer**  
+**Full-Stack Web Developer || Software Engineer**  
 React · Next.js · TypeScript · Node.js
 
 I build responsive web interfaces and API-driven applications, with an emphasis on clean code, thoughtful UX, and maintainable backends.
