@@ -12,14 +12,18 @@ I'm a final-year B.Sc. Computer Science & Engineering student at **Metropolitan 
 
 ## Selected work
 
-| Project | Evidence in the repository | Stack |
-| --- | --- | --- |
-| **[Vehicle Rental System API](https://github.com/islam37/VehicleRentalSystem)** | Modular booking, vehicle and auth services; JWT role checks and PostgreSQL transactions. **Security hardening needed before production use.** | TypeScript, Node.js, Express, PostgreSQL |
-| **[CourseFlow — Course Management](https://github.com/islam37/Course-Manages)** | Full-stack client/server structure with course enrollment, protected pages and admin workflows. | React, Node.js, Express, MongoDB |
-| **[ForumFlow](https://github.com/islam37/ForumFlow-client)** ([API](https://github.com/islam37/ForumFlow-server)) | Community application with post pages, user/admin dashboards and Firebase authentication integration. | React, Express, MongoDB, Firebase |
-| **[Vehicle Rental Frontend](https://github.com/islam37/vehicle-rental-frontend)** | React/TypeScript UI with home, login and signup pages; **still in development**. | React, TypeScript, Vite, Tailwind CSS |
+These six repositories are the projects currently pinned on my GitHub profile.
 
-> These are selected examples of work, not claims of production readiness. Demo availability, automated tests and deployments have not been independently verified.
+| Pinned project | Repository focus | Tech stack |
+| --- | --- | --- |
+| **[Vehicle Rental System API](https://github.com/islam37/VehicleRentalSystem)** | Modular REST API for vehicle management, bookings, JWT authentication, and PostgreSQL transactions. | TypeScript, Node.js, Express, PostgreSQL |
+| **[Vehicle Rental Frontend](https://github.com/islam37/vehicle-rental-frontend)** | React-based frontend for the vehicle rental system; under development. | React, TypeScript, Vite, Tailwind CSS |
+| **[Course Management API](https://github.com/islam37/Course-Management-Systems-server)** | Course, enrollment, and review endpoints with Firebase token verification and MongoDB. | Node.js, Express, MongoDB, Firebase Admin |
+| **[Course Management Frontend](https://github.com/islam37/Course-Management-Systems-client)** | React client application for the course management system, with routing and Firebase integration. | React, Vite, Tailwind CSS, Firebase |
+| **[ForumFlow API](https://github.com/islam37/ForumFlow-server)** | Backend for a community discussion platform, using Express, MongoDB, and Firebase Admin. | Node.js, Express, MongoDB, Firebase Admin |
+| **[ForumFlow Frontend](https://github.com/islam37/ForumFlow-client)** | React client for the community platform, with routing, Firebase, and responsive UI tooling. | React, Vite, Tailwind CSS, Firebase |
+
+> Repository descriptions reflect project code and documentation, not a guarantee of production readiness or live deployment.
 
 ## Technologies
 
