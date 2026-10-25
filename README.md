@@ -1,49 +1,38 @@
-# Hi, I'm Islam Uddin 👋
+<div align="center">
 
-**Full-Stack Web Developer | React · Next.js · TypeScript · Node.js**
+# Islam Uddin
 
-I'm a final-year B.Sc. Computer Science & Engineering student at **Metropolitan University, Sylhet, Bangladesh** (expected graduation: **December 2026**). I build web applications with a focus on practical functionality, maintainable code, and thoughtful user experiences.
+**Full-Stack Web Developer**  
+React · Next.js · TypeScript · Node.js
 
-**Open to junior frontend, full-stack, and software engineering opportunities.**
+I build responsive web interfaces and API-driven applications, with an emphasis on clean code, thoughtful UX, and maintainable backends.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-uddin-8a9798284/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?logo=vercel&logoColor=white)](https://www.islamuddin.site/portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:islamuddin3725@gmail.com)
+<a href="https://www.islamuddin.site/portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore-1F2937?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/islamuddin37/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:islamuddin3725@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white"></a>
 
-## Selected work
-
-These six repositories are the projects currently pinned on my GitHub profile.
-
-| Pinned project | Repository focus | Tech stack |
-| --- | --- | --- |
-| **[Vehicle Rental System API](https://github.com/islam37/VehicleRentalSystem)** | Modular REST API for vehicle management, bookings, JWT authentication, and PostgreSQL transactions. | TypeScript, Node.js, Express, PostgreSQL |
-| **[Vehicle Rental Frontend](https://github.com/islam37/vehicle-rental-frontend)** | React-based frontend for the vehicle rental system; under development. | React, TypeScript, Vite, Tailwind CSS |
-| **[Course Management API](https://github.com/islam37/Course-Management-Systems-server)** | Course, enrollment, and review endpoints with Firebase token verification and MongoDB. | Node.js, Express, MongoDB, Firebase Admin |
-| **[Course Management Frontend](https://github.com/islam37/Course-Management-Systems-client)** | React client application for the course management system, with routing and Firebase integration. | React, Vite, Tailwind CSS, Firebase |
-| **[ForumFlow API](https://github.com/islam37/ForumFlow-server)** | Backend for a community discussion platform, using Express, MongoDB, and Firebase Admin. | Node.js, Express, MongoDB, Firebase Admin |
-| **[ForumFlow Frontend](https://github.com/islam37/ForumFlow-client)** | React client for the community platform, with routing, Firebase, and responsive UI tooling. | React, Vite, Tailwind CSS, Firebase |
-
-> Repository descriptions reflect project code and documentation, not a guarantee of production readiness or live deployment.
-
-## Technologies
-
-- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, authentication
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code, Postman, Vercel
-- **Also exploring:** Python, machine learning, and research workflows
-
-## Currently focused on
-
-- Strengthening production-oriented full-stack development skills
-- Improving testing, documentation, and deployment workflows
-- Completing my undergraduate research and CSE degree
-- Preparing for junior developer opportunities
-
-## Problem-solving
-
-[Codeforces](https://codeforces.com/profile/islam37) · [LeetCode](https://leetcode.com/u/islam37/) · [CodeChef](https://www.codechef.com/users/islam37)
+</div>
 
 ---
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/islam-uddin-8a9798284/) · [Email](mailto:islamuddin3725@gmail.com)
+### Featured Projects
+
+| Project | Engineering highlights | Stack |
+| :--- | :--- | :--- |
+| **Vehicle Rental System**<br>[Backend API](https://github.com/islam37/VehicleRentalSystem) · [React frontend](https://github.com/islam37/vehicle-rental-frontend) | Vehicle and booking management, JWT-based roles, rental pricing, and PostgreSQL transactions. React client under development. | TypeScript, React, Node.js, Express, PostgreSQL |
+| **Course Management System**<br>[Frontend](https://github.com/islam37/Course-Management-Systems-client) · [Backend API](https://github.com/islam37/Course-Management-Systems-server) | Course management, student enrollments, reviews, and Firebase-based authentication and authorization. | React, Tailwind CSS, Node.js, Express, MongoDB |
+| **ForumFlow**<br>[Frontend](https://github.com/islam37/ForumFlow-client) · [Backend API](https://github.com/islam37/ForumFlow-server) | Community discussion platform with user-facing pages, administration workflows, and Firebase integration. | React, Tailwind CSS, Express, MongoDB, Firebase |
+
+### Technical Skills
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, JWT, Firebase Authentication
+- **Databases:** PostgreSQL, MongoDB
+- **Developer tools:** Git, GitHub, Postman, Vercel
+
+### About
+
+I'm a final-year **B.Sc. in Computer Science & Engineering** student at **Metropolitan University, Sylhet**, with graduation expected in **December 2026**.
+
+**Open to junior frontend, full-stack, and software engineering opportunities.**
+
